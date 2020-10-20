@@ -1,0 +1,25 @@
+{
+  "name": "rainbow-log",
+  "version": "1.0.0",
+  "description": "Creates a colourful console log",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LasseHindsberg/rainbow-log.git"
+  },
+  "keywords": [
+    "Console",
+    "rainbow",
+    "colours",
+    "colors"
+  ],
+  "author": "Lasse Bruun Hindsberg <lassehindsberg@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/LasseHindsberg/rainbow-log/issues"
+  },
+  "homepage": "https://github.com/LasseHindsberg/rainbow-log#readme"
+}
