@@ -2,10 +2,10 @@
 This package makes a colourful console log.
 
 ## Usage
-Install with `npm i @noget/rainbow-log `
+Install with `npm i @lbhindsberg/rainbow-log `
 
 ```javascript
-var rainbowLog = require("@noget/rainbow-log");
+var rainbowLog = require("@lbhindsberg/rainbow-log");
 
 rainbowLog("I am a rainbow :o)");
 ```

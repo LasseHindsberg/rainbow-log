@@ -1,6 +1,6 @@
 {
-  "name": "rainbow-log",
-  "version": "1.0.0",
+  "name": "@lbhindsberg/rainbow-log",
+  "version": "1.0.1",
   "description": "Creates a colourful console log",
   "main": "app.js",
   "scripts": {
